@@ -1,6 +1,23 @@
 p
 	{
 		font-family:Courier New;
-		font-size:30pt;
+		font-size:14pt;
 
 	}
+
+table,tr,th,td
+	
+	{
+
+		border: 1px solid;
+		border-collapse: collapse;
+	}
+
+td
+	{
+		text-align: center;
+		padding:5px;
+		width: 200px;
+	}
+
+
